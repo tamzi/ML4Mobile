@@ -7,7 +7,7 @@
 
 Folders:
     * Apk - Contains Release Files for the project 
-    * Images - Cntins
+    * Images - Contains
     * ProjectFolder - 
 
 Files:
