@@ -26,7 +26,8 @@ Short description of how it works: maybe a small user flow description.
 #### App Store Link
 
 Coming soon:
-[![Download it on Google Play](https://raw.githubusercontent.com/tamzi/ML4Mobile/master/android/images/gplay.png)](https://play.google.com/store/apps/details?id=com.package.path)
+
+[![Download it on Google Play](https://raw.githubusercontent.com/tamzi/ML4Mobile/master/art/gplay.png)](https://play.google.com/store/apps/details?id=com.package.path)
 
 
 ### TECHNICAL
