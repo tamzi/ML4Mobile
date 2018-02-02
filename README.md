@@ -1,7 +1,35 @@
 
-# App Name 
+<p align="center">
+  <a href="https://github.com/tamzi/ML4Mobile">
+    <img src="#" alt="MachineLearningForMobile" width=150 height=150>
+  </a>
 
-**ML4Mobile** is an app that shows you how to integrate Machie Learning into your mobile Application..
+  <h3 align="center"> Machine Learning For Mobile</h3>
+
+  <p align="center">
+    In this repo you will learn how to integrate TensorFLow for Mobile. <br>
+    Also included are notes on Machine Learning. See table of contents below to learn more.
+    <br>
+    </p>
+</p>
+
+<br>
+
+## Table of contents
+- [Projects Map](#)
+- [About the App](#)
+- [General Preview](#)
+- [Technical](#)
+- [Contributing](#)
+- [Permissions](#)
+- [Versions](#)
+- [Contact Information](#)
+- [Link to deeper Notes-(Link to other File)](#Links)
+
+
+
+
+
 
 ### Project's table of Contents
 
@@ -52,13 +80,11 @@ You can:
 
 ## Running the source code:
  - To run this project use Android studio 3.* and later. It will be less messy.
- - Gradle version used: gradle 4.* You can use multiple gradle versions vby having them stored offline. [You can read this to set it up.](www.sth)
+ - Gradle version used: gradle 4.* You can use multiple gradle versions vby having them stored offline. 
  
-
 
 #### ProTip
 - If installing the various apks from the apk folders using option b; to instal a later version, uninstal the lastest version first.
-
 
 
 #### CONTRIBUTING
@@ -83,4 +109,6 @@ For any concerns, please open an [issue](https://github.com/tamzi/ML4Mobile/issu
 
 For personal feedback or questions feel free to contact me via the mail address, which is mentioned on my [Github profile](link (https://github.com/tamzi). If you have found any bugs or want to post a feature request please use the [bugtracker](https://github.com/tamzi/ML4Mobile/issues) to report them.
 
-ReadMe structure is from : [ReadMe-Master templates](https://github.com/tamzi/ReadMe-MasterTemplates)
+
+##### Page Credits
+This ReadMe structure is from : [ReadMe-Master templates](https://github.com/tamzi/ReadMe-MasterTemplates)
