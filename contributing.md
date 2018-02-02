@@ -1,4 +1,4 @@
-Contributing to {{Put project name here}}
+Contributing to ML4Mobile
 ===
 We'd love to accept your patches!
 To contribute to {{Put project name here}} simply open a pull request against the [develop branch](https://github.com/yourProfile/YourProject/tree/develop)
@@ -14,7 +14,7 @@ To ensure you that your pull request is accepted:
 5. Check for unnecessary whitespace with `git diff --check` before committing.
 
 
-
+<hr>
 ### NOTE
 ```
 *Add BELOW IF YOU HAD STRTED BY WRITING TESTS. otherwise, ignore*
@@ -24,3 +24,9 @@ To ensure you that your pull request is accepted:
   * code coverage should not decrease
   * run **all** the tests to assure nothing else was accidentally broken.
 ```
+
+
+
+<hr>
+##### Page Credits
+This ReadMe structure is from : [ReadMe-Master templates](https://github.com/tamzi/ReadMe-MasterTemplates)

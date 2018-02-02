@@ -24,7 +24,7 @@
 - [Permissions](#)
 - [Versions](#)
 - [Contact Information](#)
-- [Link to deeper Notes-(Link to other File)](#Links)
+- [Link to deeper Notes-(Link to another File)](#https://github.com/tamzi/ML4Mobile/blob/master/notes.md)
 
 
 
@@ -102,7 +102,7 @@ For any concerns, please open an [issue](https://github.com/tamzi/ML4Mobile/issu
 * see [LICENSE](https://github.com/tamzi/ML4Mobile/LICENSE.md) file
 
 ## Versions
-
+* To learn more about the variosu releases, check out [releaseNotes](https://github.com/tamzi/ML4Mobile/blob/master/releaseNotes.md)
 
 
 ## Contact information
@@ -110,5 +110,7 @@ For any concerns, please open an [issue](https://github.com/tamzi/ML4Mobile/issu
 For personal feedback or questions feel free to contact me via the mail address, which is mentioned on my [Github profile](link (https://github.com/tamzi). If you have found any bugs or want to post a feature request please use the [bugtracker](https://github.com/tamzi/ML4Mobile/issues) to report them.
 
 
+
+<hr>
 ##### Page Credits
 This ReadMe structure is from : [ReadMe-Master templates](https://github.com/tamzi/ReadMe-MasterTemplates)
